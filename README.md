@@ -5,16 +5,16 @@ i would like to record as much information and "personal struggles" as possible 
 
 if anyone wnat to learn java from this please not that i strongly recommend watching a tutorial i may do some mistakes and also this is my first time doing a challeng like this i hope you understand....
 
-so lets get right in to learning java
-**DAY_1**
-so on my first day i learned about installing java ,selecting an IDE ,introduction on java, executing my code and about variables
+so lets get right in to learning java  
+**DAY_1**  
+so on my first day i learned about installing java ,selecting an IDE ,introduction on java, executing my code and about variables  
 
-*installing ("aka JDK - java development kit") in windows 11*
-so installing java is pretty much simple just like downloading a game it has 4 steps in "my case"
-step-1 -- open browser and search download java
-step-2 -- download the latest java exe file into your machine.
-step-3 -- run the exe file and continue with installation 
-step-4 -- then you set bin path in your environment varaibles("i strongly recommend watching a tutorial to do this")
+*installing ("aka JDK - java development kit") in windows 11*  
+so installing java is pretty much simple just like downloading a game it has 4 steps in "my case"  
+step-1 -- open browser and search download java  
+step-2 -- download the latest java exe file into your machine.  
+step-3 -- run the exe file and continue with installation   
+step-4 -- then you set bin path in your environment varaibles("i strongly recommend watching a tutorial to do this")  
 
 with this i sucessfully installed jdk into my machine 
 
@@ -25,7 +25,7 @@ you can choose whatever you are confortable with like
 1. vscode   ("i choose this")
 2. intellij
 3. antigravity ide
-and 
+and more
 
 
 *introduction to java*
