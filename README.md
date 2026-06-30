@@ -6,10 +6,10 @@ i would like to record as much information and "personal struggles" as possible 
 if anyone wnat to learn java from this please not that i strongly recommend watching a tutorial i may do some mistakes and also this is my first time doing a challeng like this i hope you understand....
 
 so lets get right in to learning java  
-**DAY_1**  
+## **DAY_1**  
 so on my first day i learned about installing java ,selecting an IDE ,introduction on java, executing my code and about variables  
 
-*installing ("aka JDK - java development kit") in windows 11*  
+# *installing ("aka JDK - java development kit") in windows 11*  
 so installing java is pretty much simple just like downloading a game it has 4 steps in "my case"  
 step-1 -- open browser and search download java  
 step-2 -- download the latest java exe file into your machine.  
@@ -18,7 +18,7 @@ step-4 -- then you set bin path in your environment varaibles("i strongly recomm
 
 with this i sucessfully installed jdk into my machine 
 
-*selecting an IDE("Integrated Development Environment")*
+# *selecting an IDE("Integrated Development Environment")*  
 what it basically is like a fancy notepad with tools to develop programs using programming languages i mean in now a days ides can provide more like ai and agents and extensions and other things so basically want its intented purpose is to write code efficienty.
 
 you can choose whatever you are confortable with like
@@ -28,8 +28,8 @@ you can choose whatever you are confortable with like
 and more
 
 
-*introduction to java*
-## What is Java?
+## *introduction to java*
+# What is Java?
 
 Imagine you want to give instructions to a robot.
 
@@ -308,19 +308,6 @@ System.out.println("Hello");
 The compiler converts this into machine-understandable instructions.
 
 Without a compiler, the computer cannot understand Java code.
-
----
-
-# What is an IDE?
-
-An **IDE (Integrated Development Environment)** is software that helps programmers write, run, test, and debug programs.
-
-Popular Java IDEs include:
-
-- IntelliJ IDEA
-- Eclipse IDE
-- Apache NetBeans
-- Visual Studio Code (with Java extensions)
 
 ---
 
