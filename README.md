@@ -396,4 +396,4 @@ i have to learn and document what i learned so i will deal with the variables to
 
 with this i conclude my day one of learning java.
 
-**see ya tomorrow furure me!**
+**see ya tomorrow future me!**
