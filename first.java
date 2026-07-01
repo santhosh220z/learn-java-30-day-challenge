@@ -41,6 +41,12 @@ public class Main {
     System.out.println(isAdult);
     System.out.println(isStudent);
 
-    
+    Scanner scanner = new Scanner(System.in); //creating scanner object to take input from user
+    System.out.print("Enter your favorite food: "); //prompting user to enter their favorite food
+    String favoriteFood = scanner.nextLine(); //reading the user's input
+    System.out.println("Your favorite food is: " + favoriteFood); //displaying the user's 
+    System.out.print("enter your favorite number: ");
+    int number = scanner.nextInt(); //reading the user's input
+    System.out.println("Your favorite number is: " + number);
     }
 }
