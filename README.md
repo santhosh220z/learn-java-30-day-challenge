@@ -398,3 +398,86 @@ with this i conclude my day one of learning java.
 
 **see ya tomorrow future me!**
 
+## DAY-2
+
+# variables  
+variabels are like a container that store the values like how we store our cooking ingrediants in containers in the same way we store the values in the variables 
+
+to use variabels in java we follow the following fornmat:  
+"datatype varaiable_name = value;" or "datatype variable_name;"   
+in this way we assign variables to values in java in java  
+
+# rules for naming varaibles  
+
+1. variables cant contain any white spaces    
+2. variabels can't start with numbers or symbols  
+3. varaibels can't use reserved key words as names  
+4. varaibels can't start with built in literals   
+5. variables should follow the above mentioned format  
+
+
+# DATA TYPES
+
+in java there are 2 types of datatypes  
+1. primitive datatype  
+2. reference datatype  
+
+# primitive datatype  
+we can think of primitive datatypes as datatypes that stores simple values like integers, charaters, floating values, true or false, etc
+
+primitive dataypes are stored directly in memory(stack)
+
+1. integer --> int:  
+integer variable is used to store whole numbers and is represented by int
+
+2. double --> double:  
+uble variable is used to store decimal numbers and is represented by d the end of the number
+
+3. float --> float :  
+float variable is used to store decimal numbers and is represented by f at the end of the number
+
+4. long integer --> long:  
+long variable is used to store large numbers
+
+5. character --> char:  
+character variable is a single character and is represented by single quotes
+
+6. boolean --> boolean:  
+boolean variable it only has 2 states true or false
+
+these are some primitive datatypes
+
+# reference datatype
+
+1. String --> String:  
+string is like a list of characters together so a string represents a group of characters in between double quotes  
+
+2. array --> arr:  
+an array is also similar to a string it represents as list of similar datatypes and an array is multi-dimensional 1x1 2x2 and ...nxm
+
+3. object  
+so an object is like an instance in a class we can learn more about them in future because they are complex 
+
+so in reference datatype it also use stack memory but instead of stroing the values in stack directly it stores a address the points to heap which has the actual values.
+
+# Scanner or inputs in java:  
+
+to input data in java we use scanner class which is mainly use used to take input data from an user.
+to use scanner in java   
+
+but there is a slight problem we cant use scanner class directly to use scanner class we need to import the scanner class from java packages   
+
+code : "import java.util.Scanner;"  
+
+it was written before main class or outside main class.  
+
+then we use the following methods to use the scanner class.  
+next() -->	A single word (stops at the first space) - "Java"  
+nextLine() -->	A whole line of text (includes spaces) - "Java is awesome!"  
+nextInt() --> An integer number - 42  
+nextDouble() --> A decimal/floating-point number - 3.14  
+nextBoolean() --> A true/false value - true  
+
+for reference code check first.java   
+
+so with this that comes to the end of DAY-2 

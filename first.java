@@ -1,3 +1,5 @@
+import java.util.Scanner; //importing scanner class to take input from user
+
 public class Main {
     //learning Java for the first time 
     /*
@@ -17,7 +19,6 @@ public class Main {
     1. variables
     2. datatypes
     3. inputs
-    4. if else statements
     */
 
     int age = 21; //integer variable is used to store whole numbers and is represented by int
@@ -39,5 +40,7 @@ public class Main {
     System.out.println(grade);
     System.out.println(isAdult);
     System.out.println(isStudent);
+
+    
     }
 }
